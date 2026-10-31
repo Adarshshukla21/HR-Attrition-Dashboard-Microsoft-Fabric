@@ -1,4 +1,4 @@
-# 📊 HR Attrition Analysis Dashboard
+# 📊HR Attrition Analysis Workforce Insights
 
 ## 📌 Project Overview
 This project focuses on analyzing employee attrition using Microsoft Fabric and Power BI. The dashboard helps understand employee turnover patterns and explore factors that may influence employees leaving an organization.
